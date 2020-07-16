@@ -20,7 +20,7 @@ public void makeFrame() {
 frame.setTitle("Type or Die");
 frame.add(panel);
 frame.add(label);
-label.setText(currentLetter);
+//label.setText(currentLetter);
 frame.pack();
 
 
